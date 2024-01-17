@@ -23,3 +23,7 @@
 2024-01-17 09:42:54:4254 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
 2024-01-17 09:42:58:4258 - [35mhttp[39m: [35mGET /api/test 200 12 - 2.914 ms[39m
 [35m[39m
+2024-01-17 10:02:30:230 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-17 10:02:30:230 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-17 10:05:47:547 - [35mhttp[39m: [35mPOST /api/movie 200 23 - 6.462 ms[39m
+[35m[39m
