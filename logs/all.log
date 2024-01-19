@@ -89,3 +89,45 @@
 2024-01-18 10:30:41:3041 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
 2024-01-18 10:32:19:3219 - [35mhttp[39m: [35mGET /api/movie 200 1353 - 108.988 ms[39m
 [35m[39m
+2024-01-18 21:29:54:2954 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:29:54:2954 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:31:53:3153 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:31:53:3153 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:32:05:325 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:32:05:325 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:33:40:3340 - [31merror[39m: [31mErro njo sistema: Cast to ObjectId failed for value "65a92303296a0fb5ce174e" (type string) at path "_id" for model "Movie"[39m
+2024-01-18 21:33:40:3340 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174e 500 40 - 22.036 ms[39m
+[35m[39m
+2024-01-18 21:34:24:3424 - [35mhttp[39m: [35mGET /api/movie 200 1353 - 104.927 ms[39m
+[35m[39m
+2024-01-18 21:35:41:3541 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:35:41:3541 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:36:01:361 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65a92303296a0fb5ce174eb24" (type string) at path "_id" for model "Movie"[39m
+2024-01-18 21:36:01:361 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174eb24 500 40 - 16.658 ms[39m
+[35m[39m
+2024-01-18 21:38:01:381 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:38:01:381 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:38:32:3832 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65a92303296a0fb5ce174eb244" (type string) at path "_id" for model "Movie"[39m
+2024-01-18 21:38:32:3832 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174eb244 500 40 - 22.159 ms[39m
+[35m[39m
+2024-01-18 21:38:58:3858 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174eb3 404 32 - 86.142 ms[39m
+[35m[39m
+2024-01-18 21:39:40:3940 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65a92303296a0fb5ce174eb34" (type string) at path "_id" for model "Movie"[39m
+2024-01-18 21:39:40:3940 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174eb34 500 40 - 3.625 ms[39m
+[35m[39m
+2024-01-18 21:39:49:3949 - [35mhttp[39m: [35mDELETE /api/movie/65a92303296a0fb5ce174eb3 404 32 - 74.680 ms[39m
+[35m[39m
+2024-01-18 21:43:43:4343 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:43:43:4343 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:44:00:440 - [35mhttp[39m: [35mDELETE /api/movie/65a7d2342321bfba5cffbbd3 200 37 - 196.913 ms[39m
+[35m[39m
+2024-01-18 21:50:43:5043 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:50:43:5043 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:51:45:5145 - [35mhttp[39m: [35mPATCH /api/movie/65a7d2342321bfba5cffbbd3 404 32 - 97.732 ms[39m
+[35m[39m
+2024-01-18 21:54:40:5440 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-01-18 21:54:40:5440 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2024-01-18 21:57:29:5729 - [35mhttp[39m: [35mPATCH /api/movie/65a92303296a0fb5ce174eb2 200 271 - 222.340 ms[39m
+[35m[39m
+2024-01-18 21:57:59:5759 - [35mhttp[39m: [35mPATCH /api/movie/65a92303296a0fb5ce174eb2 200 283 - 269.938 ms[39m
+[35m[39m
